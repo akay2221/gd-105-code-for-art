@@ -23,4 +23,5 @@ void draw() {
   image(bunny, 0,0);
   
   image(dog, 0,0 );
+  
 }
